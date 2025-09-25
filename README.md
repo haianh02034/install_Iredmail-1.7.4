@@ -1,4 +1,5 @@
-# install_Iredmail-1.7.4
+# install_Iredmail-1.7.4 - << khuyến nghị sử dụng ubuntu 22.04 >>  
+
 
 1) Bản ghi DNS cần thêm / sửa (điền vào giao diện quản lý DNS của bạn)
 
